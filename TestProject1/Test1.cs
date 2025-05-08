@@ -10,7 +10,7 @@
             var form = new DummyCiCd2.Form1();
             int a = 5;
             int b = 10;
-            int expected = 30;
+            int expected = 15;
             // Act
             int result = form.Add(a, b);
             // Assert
